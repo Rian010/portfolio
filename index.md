@@ -43,6 +43,15 @@ Saya memiliki latar belakang pendidikan yang kuat dalam bidang teknik sipil, ars
 - **Teknologi**: Green Building Technologies, AutoCAD
 - **Dokumentasi**: [Link ke Dokumentasi](https://github.com/Rian010/portfolio/blob/main/proyek2/dokumentasi.md)
 
+## [Dokumentasi dan Pembelajaran](https://github.com/Rian010/Journal/wiki/Industri-Kontruksi-Sources)
+Berikut adalah beberapa sumber dokumentasi dan pembelajaran yang saya gunakan untuk terus meningkatkan pengetahuan dan keterampilan saya dalam industri konstruksi:
+- **Buku dan Literatur**: Saya membaca banyak buku dan literatur tentang teknik sipil, arsitektur, dan manajemen proyek untuk tetap up-to-date dengan perkembangan terbaru.
+- **Kursus Online**: Saya mengikuti kursus online dari platform seperti Coursera, edX, dan LinkedIn Learning untuk mempelajari teknologi dan metodologi baru.
+- **Seminar dan Konferensi**: Saya secara rutin menghadiri seminar dan konferensi industri untuk berjejaring dengan profesional lain dan belajar dari pakar industri.
+- **Dokumentasi Proyek**: Saya mendokumentasikan setiap proyek yang saya kerjakan untuk referensi masa depan dan untuk berbagi pengetahuan dengan rekan kerja dan komunitas.
+### [Link ke Dokumentasi dan Pembelajaran](https://github.com/Rian010/Journal/wiki/Industri-Kontruksi-Sources):
+[Sumber Lengkap](https://github.com/Rian010/Journal/wiki/Industri-Kontruksi-Sources)
+
 ## Kontak
 - **Email**: [mhmmdriann@gmail.com](mhmmdriann@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/rian010)
