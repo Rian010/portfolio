@@ -11,23 +11,22 @@ Saya memiliki latar belakang pendidikan yang kuat dalam bidang teknik sipil, ars
 - **Sertifikasi dari Lembaga Pengembangan Jasa Konstruksi (LPJK)**
 - **Sertifikasi PMP (Project Management Professional)**
 
-**Project Management Institute (PMI)**
+- **Project Management Institute (PMI)
+[Project Management Foundations](https://www.linkedin.com/learning/certificates/9159ac760fdc746c30c057c1efa450bb8e2440a4b956014dd6dedf46ec63b9da?trk=share_certificate)**
 
-[Project Management Foundations](https://www.linkedin.com/learning/certificates/9159ac760fdc746c30c057c1efa450bb8e2440a4b956014dd6dedf46ec63b9da?trk=share_certificate)
-
-[Project Management Foundation: Budgets](https://www.linkedin.com/learning/certificates/70137ac996a4b9547b97744d22766fc53ae8b6fe0d9c7719dadaa6bdc7dc42b0?trk=share_certificate)
+- **[Project Management Foundation: Budgets](https://www.linkedin.com/learning/certificates/70137ac996a4b9547b97744d22766fc53ae8b6fe0d9c7719dadaa6bdc7dc42b0?trk=share_certificate)**
   
-[Atlassian Agile Project Management Professional Certificate](https://www.linkedin.com/learning/certificates/02a5fc9e507020672b9fd06eb3953f56bdc1e967019fd26cc91be906e6379c61)
+- **[Atlassian Agile Project Management Professional Certificate](https://www.linkedin.com/learning/certificates/02a5fc9e507020672b9fd06eb3953f56bdc1e967019fd26cc91be906e6379c61)**
 
-[Career Essentials in Project Management by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/322b537064825da2bdddfe059a56ac90f8093670307afdb3f257d1989e00be24)
+- **[Career Essentials in Project Management by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/322b537064825da2bdddfe059a56ac90f8093670307afdb3f257d1989e00be24)**
 
-[CFI Corporate Finance Foundations Professional Certificate](https://www.linkedin.com/learning/certificates/1ea20df6ef54ff9fe91f7cf35d74e86dec3d263a42baa11b96c1e9b9bbcd9524)
+- **[CFI Corporate Finance Foundations Professional Certificate](https://www.linkedin.com/learning/certificates/1ea20df6ef54ff9fe91f7cf35d74e86dec3d263a42baa11b96c1e9b9bbcd9524)**
 
-[Career Essentials in Data Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/2f9ce4f39aeae7bf61804f951151c332f2c7ed2dcd80a71f62713896acdd5036)
+- **[Career Essentials in Data Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/2f9ce4f39aeae7bf61804f951151c332f2c7ed2dcd80a71f62713896acdd5036)**
 
-[Career Essentials in Sustainable Tech by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/2cc7dbb79f53f4bc8d543219fa19e7fcaaf9d2edb8f68363c21f876558dbcb84)
+- **[Career Essentials in Sustainable Tech by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/2cc7dbb79f53f4bc8d543219fa19e7fcaaf9d2edb8f68363c21f876558dbcb84)**
 
-[Career Essentials in System Administration by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/e875f24758c580b81444c9e2bda4017ea4926737d665c588df150cff8b32a37b)
+- **[Career Essentials in System Administration by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/e875f24758c580b81444c9e2bda4017ea4926737d665c588df150cff8b32a37b)**
 
 ## Proyek
 
