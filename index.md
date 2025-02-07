@@ -12,7 +12,10 @@ Saya memiliki latar belakang pendidikan yang kuat dalam bidang teknik sipil, ars
 - **Sertifikasi PMP (Project Management Professional)**
 
 **Project Management Institute (PMI)**
+
 [Project Management Foundations](https://www.linkedin.com/learning/certificates/9159ac760fdc746c30c057c1efa450bb8e2440a4b956014dd6dedf46ec63b9da?trk=share_certificate)
+
+[Project Management Foundation: Budgets](https://www.linkedin.com/learning/certificates/70137ac996a4b9547b97744d22766fc53ae8b6fe0d9c7719dadaa6bdc7dc42b0?trk=share_certificate)
   
 [Atlassian Agile Project Management Professional Certificate](https://www.linkedin.com/learning/certificates/02a5fc9e507020672b9fd06eb3953f56bdc1e967019fd26cc91be906e6379c61)
 
