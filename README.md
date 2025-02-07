@@ -18,6 +18,6 @@ Saya adalah seorang profesional di bidang konstruksi dengan pengalaman dalam ber
 - **Dokumentasi**: [Link ke Dokumentasi](https://github.com/Rian010/portfolio/blob/main/proyek2/dokumentasi.md)
 
 ## Kontak
-- **Email**: [email@example.com](mailto:email@example.com)
+- **Email**: [mhmmdriann@gmail.com](mhmmdriann@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/rian010)
 - **GitHub**: [GitHub Profile](https://github.com/Rian010)
